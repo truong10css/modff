@@ -1,15 +1,27 @@
 [
   {
-    "name": "ESP VIP V10",
-    "description": "ESP Full",
-    "version": "OB50",
-    "size": "15MB",
-    "image": "https://raw.githubusercontent.com/truong10css/modff/main/images/esp.png",
-    "link_ff": "https://github.com/truong10css/modff/releases/download/mod/ff.zip",
-    "link_ff_max": "https://github.com/truong10css/modff/releases/download/mod/ffmax.zip",
-    "guide_link": "https://youtube.com/",
-    "update_date": "26/07/2026",
-    "status": "Hoạt động",
+    "name": "Aimlock VIP",
+    "image": "https://raw.githubusercontent.com/truong10css/modff/main/images/aimlock.png",
+    "link_ff": "https://raw.githubusercontent.com/truong10css/modff/main/files/aimlock.zip",
+    "link_ff_max": "https://raw.githubusercontent.com/truong10css/modff/main/files/aimlock_max.zip",
+    "version": "1.0",
+    "size": "20MB",
+    "description": "Aimlock VIP hỗ trợ Free Fire",
+    "update_date": "2026-07-26",
+    "status": "Online",
     "package_game": "com.dts.freefireth"
+  },
+
+  {
+    "name": "Aimlock MAX",
+    "image": "https://raw.githubusercontent.com/truong10css/modff/main/images/aimlockmax.png",
+    "link_ff": "",
+    "link_ff_max": "https://raw.githubusercontent.com/truong10css/modff/main/files/aimlock_max.zip",
+    "version": "1.0",
+    "size": "25MB",
+    "description": "Dành cho Free Fire MAX",
+    "update_date": "2026-07-26",
+    "status": "Online",
+    "package_game": "com.dts.freefiremax"
   }
 ]
