@@ -9,7 +9,8 @@
     "description": "Aimlock VIP hỗ trợ Free Fire",
     "update_date": "2026-07-26",
     "status": "Online",
-    "package_game": "files/contentcache/Optional/android/optionalavatarres/gameassetbundles/"
+    "package_game": "com.dts.freefireth",
+  "install_path": "files/contentcache/Optional/android/optionalavatarres/gameassetbundles/"
   },
 
   {
@@ -22,6 +23,6 @@
     "description": "Dành cho Free Fire MAX",
     "update_date": "2026-07-26",
     "status": "Online",
-    "package_game": "files/contentcache/Optional/android/optionalavatarres/gameassetbundles/"
-  }
+    "package_game": "com.dts.freefireth",
+  "install_path": "files/contentcache/Optional/android/optionalavatarres/gameassetbundles/"  }
 ]
