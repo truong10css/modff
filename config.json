@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "Ứng dụng đang bảo trì.\nVui lòng quay lại sau.",
   "min_app_version": "1.0"
 }
