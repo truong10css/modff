@@ -1,15 +1,15 @@
 [
   {
-    "name": "Mod Version 1",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTbHfa1o668f24QkOswoA3OzfHMWxYtKb6TpjzfmuwMsWC43r9q4Kxm4&s",
-    "link_ff": "https://raw.githubusercontent.com/USER/REPO/main/modff/downloads/ff.zip",
-    "link_ff_max": "https://raw.githubusercontent.com/USER/REPO/main/modff/downloads/ffmax.zip",
-    "version": "1.0",
-    "size": "5MB",
-    "description": "Mô tả ngắn về mod này",
-    "guide_link": "https://example.com/huong-dan",
-    "update_date": "25/07/2026",
-    "status": "Hoạt động tốt",
+    "name": "ESP VIP V10",
+    "description": "ESP Full",
+    "version": "OB50",
+    "size": "15MB",
+    "image": "https://raw.githubusercontent.com/truong10css/modff/main/images/esp.png",
+    "link_ff": "https://github.com/truong10css/modff/releases/download/mod/ff.zip",
+    "link_ff_max": "https://github.com/truong10css/modff/releases/download/mod/ffmax.zip",
+    "guide_link": "https://youtube.com/",
+    "update_date": "26/07/2026",
+    "status": "Hoạt động",
     "package_game": "com.dts.freefireth"
   }
 ]
