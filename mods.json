@@ -2,26 +2,26 @@
   {
     "name": "Aimlock VIP",
     "image": "https://raw.githubusercontent.com/truong10css/modff/main/images/aimlock.png",
-    "link_ff": "https://raw.githubusercontent.com/truong10css/modff/main/files/aimlock.zip",
-    "link_ff_max": "https://raw.githubusercontent.com/truong10css/modff/main/files/aimlock_max.zip",
+    "link_ff": "https://github.com/truong10css/modff/raw/refs/heads/main/files/File%20-%20Update%20N%C3%BAi%20Th%C3%A1nh%20Vi%E1%BB%85n%20C%E1%BB%95.rar",
+    "link_ff_max": "https://github.com/truong10css/modff/raw/refs/heads/main/files/File%20-%20Update%20N%C3%BAi%20Th%C3%A1nh%20Vi%E1%BB%85n%20C%E1%BB%95.rar",
     "version": "1.0",
     "size": "20MB",
     "description": "Aimlock VIP hỗ trợ Free Fire",
     "update_date": "2026-07-26",
     "status": "Online",
-    "package_game": "com.dts.freefireth"
+    "package_game": "com.dts.freefireth/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/"
   },
 
   {
-    "name": "Aimlock MAX",
+    "name": "skin MAX",
     "image": "https://raw.githubusercontent.com/truong10css/modff/main/images/aimlockmax.png",
-    "link_ff": "",
-    "link_ff_max": "https://raw.githubusercontent.com/truong10css/modff/main/files/aimlock_max.zip",
+    "link_ff": "https://github.com/truong10css/modff/raw/refs/heads/main/files/File%20-%20Update%20N%C3%BAi%20Th%C3%A1nh%20Vi%E1%BB%85n%20C%E1%BB%95.rar",
+    "link_ff_max": "https://github.com/truong10css/modff/raw/refs/heads/main/files/File%20-%20Update%20N%C3%BAi%20Th%C3%A1nh%20Vi%E1%BB%85n%20C%E1%BB%95.rar",
     "version": "1.0",
     "size": "25MB",
     "description": "Dành cho Free Fire MAX",
     "update_date": "2026-07-26",
     "status": "Online",
-    "package_game": "com.dts.freefiremax"
+    "package_game": "com.dts.freefiremax/files/contentcache/Optional/android/optionalavatarres/gameassetbundles/"
   }
 ]
