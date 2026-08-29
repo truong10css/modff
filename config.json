@@ -1,13 +1,13 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "maintenance_message": "Máy chủ đang bảo trì.\nVui lòng quay lại sau.",
 
   "min_app_version": "1.0",
   "server_version": "1.0",
   "update_time": "2026-07-27 14:30",
 
-  "app_version": "1.0",
-  "force_update": false,
+  "app_version": "1.1",
+  "force_update": true,
 
   "update_title": "Có phiên bản mới",
   "update_message": "Đã có phiên bản 1.1.0.\n\n• Thêm tab Mod Súng\n• Cải thiện tốc độ tải\n• Sửa một số lỗi",
