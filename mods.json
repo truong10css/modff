@@ -1,25 +1,13 @@
 [
   {
-    "name": "Aimlock VIP",
+    "name": "MOD ĐỒ V1",
     "image": "https://raw.githubusercontent.com/truong10css/modff/main/images/aimlock.png",
-    "link_ff": "https://raw.githubusercontent.com/truong10css/modff/refs/heads/main/files/test.zip",
-    "link_ff_max": "https://raw.githubusercontent.com/truong10css/modff/refs/heads/main/files/test.zip",
+    "link_ff": "https://github.com/truong10css/modff/releases/download/File/V1.FFT.zip",
+    "link_ff_max": "https://github.com/truong10css/modff/releases/download/File/V1.FFMX.zip",
     "version": "1.0",
-    "size": "20MB",
-    "description": "Aimlock VIP hỗ trợ Free Fire",
-    "update_date": "2026-07-26",
-    "status": "Online"
-  },
-
-  {
-    "name": "skin MAX",
-    "image": "https://raw.githubusercontent.com/truong10css/modff/main/images/aimlockmax.png",
-    "link_ff": "https://raw.githubusercontent.com/truong10css/modff/refs/heads/main/files/test.zip",
-    "link_ff_max": "https://raw.githubusercontent.com/truong10css/modff/refs/heads/main/files/test.zip",
-    "version": "1.0",
-    "size": "25MB",
-    "description": "Dành cho Free Fire MAX",
-    "update_date": "2026-07-26",
-    "status": "Online"
+    "size": "1.4MB",
+    "description": "Yêu cầu tải full tài nguyên nhân vật trước khi cài mod!",
+    "update_date": "2026-08-29",
+    "status": "Antiban"
   }
 ]
