@@ -22,6 +22,18 @@
     "description": "Yêu cầu tải full tài nguyên nhân vật trước khi cài mod!\nAlok Thức Tỉnh",
     "update_date": "2026-08-29",
     "status": "Antiban"
+  },
+  
+  {
+    "name": "MOD ĐỒ V3 ",
+    "image": "https://i.imgur.com/lUP0uuQ.jpeg",
+    "link_ff": "https://github.com/truong10css/modff/releases/download/File/V3.FFT.zip",
+    "link_ff_max": "https://github.com/truong10css/modff/releases/download/File/V3.FFMX.zip",
+    "version": "1.0",
+    "size": "1.49MB",
+    "description": "Yêu cầu tải full tài nguyên nhân vật trước khi cài mod!\nAlok Thức Tỉnh",
+    "update_date": "2026-08-29",
+    "status": "Antiban"
   }
   
 ]
