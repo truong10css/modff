@@ -7,7 +7,7 @@
   "update_time": "2026-07-27 14:30",
 
   "app_version": "1.0",
-  "force_update": false,
+  "force_update": true,
 
   "update_title": "Có phiên bản mới",
   "update_message": "Đã có phiên bản 1.1.0.\n\n• Thêm tab Mod Súng\n• Cải thiện tốc độ tải\n• Sửa một số lỗi",
