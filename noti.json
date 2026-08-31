@@ -1,7 +1,6 @@
 {
-  "enable": true,
   "id": 1,
-  "title": "THÔNG BÁO TỪ HỆ THỐNG",
-  "message": "Hệ thống sẽ bảo trì nâng cấp máy chủ vào lúc 23:00 hôm nay. Rất mong quý khách cảm thông!",
-  "cancelable": true
+  "title": "📢 Cập nhật 1.1",
+  "message": "Sửa lỗi kết nối Shizuku và tối ưu hóa giao diện",
+  "show": true
 }
